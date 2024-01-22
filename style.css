@@ -1,0 +1,94 @@
+body{
+    background-image: url(images/dynaproductionsbackground.png);
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+td{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+th{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: rgb(0, 68, 253);
+}
+li{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+button{
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 7px;
+    background-color:rgb(0, 155, 64);
+    color: rgb(255, 255, 255);
+    border-width: 0px;
+}
+button:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 155, 64);
+}
+button:active{
+    height: 20px;
+    width: 120px;
+    font-size: 15px;
+    background-color:rgb(0, 155, 64);
+    color: rgb(255, 255, 255);
+}
+a{
+    font-family: 'Courier New', Courier, monospace;
+}
+table{
+    background-color: rgb(0, 4, 255);
+}
+#thingform{
+    position: relative;
+    float: right;
+}
+#eclogo{
+    position: absolute;
+    left: 1px;
+    top: -18px;
+}
+tr{
+    background-color: rgb(0, 153, 255);
+}
+.links{
+    font-size: 15px;
+    position: relative;
+    left: 70px;
+    margin-top: 7px;
+}
+.links:link{
+    color: white;
+}
+.links:visited{
+    color: white;
+}
+.links:active{
+    color: gray;
+}
+header{
+    background-color: black; 
+    border-radius: 15px; 
+    height: 80px;
+    position: fixed;
+    margin-right: 10px;
+    width: 666px;
+}
