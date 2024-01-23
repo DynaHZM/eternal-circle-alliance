@@ -57,9 +57,9 @@ a{
 table{
     background-color: rgb(0, 4, 255);
 }
-#thingform{
+#suggestionform{
     position: relative;
-    float: right;
+    left: 34%;
 }
 #eclogo{
     position: absolute;
