@@ -121,10 +121,20 @@ ul{
     padding: 14px 16px;
     text-decoration: none;
     font-family: 'Courier New', Courier, monospace;
+    transition-duration: 0.2s;
 }
 
 /* Change color on hover */
 .navbar a:hover {
     background-color: #006eff;
     color: black;
+}
+select{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+option{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+textarea{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
